@@ -1,2 +1,3 @@
 # Princess_Conncect_0425_Complete
-sddsa
+
+PrincessConnect Redive 모작입니다.
